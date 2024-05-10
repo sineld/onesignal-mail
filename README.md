@@ -11,7 +11,7 @@ Laravel version 9.0, 10.00, 11.0 or higher.
 * Step 1: Install package via composer.
 
 ```bash
-composer require sineld/onesignal-mail
+composer require sineld/onesignal-mail:dev-main
 ```
 
 * Step 2: Add your account and API keys to your **.env file**.
