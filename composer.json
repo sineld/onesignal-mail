@@ -26,10 +26,5 @@
             "name": "Sinan Eldem",
             "email": "sinan@sinaneldem.com.tr"
         }
-    ],
-    "extra": {
-        "branch-alias": {
-            "dev-main": "dev"
-        }
-    }
+    ]
 }
