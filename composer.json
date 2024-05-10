@@ -1,0 +1,35 @@
+{
+    "name": "sineld/onesignal-mail",
+    "description": "Package to send emails via Onesignal Mail Provider",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "onesignal",
+        "email",
+        "onesignal email",
+        "sineld"
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "laravel/framework": "^9.0|^10.0|^11.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sineld\\OneSignalMail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sinan Eldem",
+            "email": "sinan@sinaneldem.com.tr"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-main": "dev"
+        }
+    }
+}
