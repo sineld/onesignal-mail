@@ -1,10 +1,10 @@
-# Sineld - Onesignal Mail for Laravel
+# Sineld - OneSignal Mail for Laravel
 
-This is a wrapper for Onesignal Email for Laravel.
-You can send e-mails in your project just like you usually do with Laravel's native mailers, the package makes sure the e-mails are send via the Onesignal Mail API using your Onesignal Email account.
+This is a wrapper for OneSignal Email for Laravel.
+You can send e-mails in your project just like you usually do with Laravel's native mailers, the package makes sure the e-mails are send via the OneSignal Mail API using your OneSignal Email account.
 
 ## Requires
-Laravel version 9.0, 10.00, 11.0 or higher.
+Workes with Laravel version 9.0, 10.00, 11.0 or higher.
 
 ### Installation ###
 
